@@ -17,12 +17,12 @@ module.exports = function (app) {
     res.json(index);
   });
 
-
+  // Returns saved notes when clicked on
   app.get("/api/notes", function (req, res) {
     res.json(PATH);
   });
-
-
+ 
+  // Post route to recive new notes amd return the saved notes
   app.post("/api/notes", function (req, res) {
     var newNote = req.body;
     newNote.id = uuidv4();
