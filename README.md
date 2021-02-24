@@ -8,7 +8,7 @@
 ```
 npm i
 npm install express
-npm unstall uuid
+npm install uuid
 ```
 
 
