@@ -15,6 +15,9 @@
 - run node server.js 
 - enter localhost:3000 in your browser
 
+Deployed heroku link 
+- https://note-takertm.herokuapp.com/
+
 ```
 npm i
 npm install express
