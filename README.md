@@ -11,7 +11,7 @@
 
 ## Installation and Usage
 - Clone the repo
-- Install the dependencie below
+- Install the dependencies below
 - run node server.js 
 - enter localhost:3000 in your browser
 
